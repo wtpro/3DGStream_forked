@@ -11,5 +11,6 @@ screenshots
 *.mp4
 *.npy
 *.out
+*.zip
 __pycache__
 dataset
